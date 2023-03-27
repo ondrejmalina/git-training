@@ -1,4 +1,7 @@
 Text to be compared.
 Something to compare
+
 Some text for merge exercise, ok?
 Some text
+
+Hopefully
