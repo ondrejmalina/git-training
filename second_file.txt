@@ -1,2 +1,3 @@
 Text to be compared.
 Something to compare
+Hopefully
