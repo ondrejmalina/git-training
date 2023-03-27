@@ -6,3 +6,4 @@ Something to compare again
 
 
 New text for branching
+Add text for stashing exercise to the first file
