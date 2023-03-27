@@ -5,3 +5,4 @@ Some text for merge exercise, ok?
 Some text
 
 Hopefully
+Add text for stashing exercise to the second file
