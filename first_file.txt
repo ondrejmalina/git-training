@@ -1,4 +1,3 @@
 Hello!
 Hi.
-How are you?
-Add something to revert. 
+How are you? 
